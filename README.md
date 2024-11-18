@@ -24,8 +24,7 @@ The automation suite covers:
 
 Extent Report - TestOutput folder of the project > Index.html[file]
 
-**Author
-**
+**Author**
 Viraj (@Viraj61968)
 
 
